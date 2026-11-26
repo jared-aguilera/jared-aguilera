@@ -1,0 +1,110 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 200">
+
+<style>
+
+@keyframes float {
+
+0%, 100% { transform: translateY(0); }
+
+50% { transform: translateY(-10px); }
+
+}
+
+@keyframes wave {
+
+0%, 100% { transform: rotate(-3deg); }
+
+50% { transform: rotate(3deg); }
+
+}
+
+@keyframes glow {
+
+0%, 100% { filter: drop-shadow(0 0 3px #601111); }
+
+50% { filter: drop-shadow(0 0 8px #601111); }
+
+}
+
+@keyframes dash {
+
+to { stroke-dashoffset: -1000; }
+
+}
+
+.floating { animation: float 3s ease-in-out infinite; }
+
+.waving { animation: wave 4s ease-in-out infinite; }
+
+.glowing { animation: glow 2s ease-in-out infinite; }
+
+.coding-line {
+
+stroke-dasharray: 40;
+
+animation: dash 20s linear infinite;
+
+}
+
+.main-text {
+
+font-family: 'Monaco', monospace;
+
+font-weight: bold;
+
+}
+
+</style>
+
+
+
+<!-- Decorative Background Elements -->
+
+<path class="coding-line" d="M20 40 Q 400 20, 780 40" stroke="#601111" fill="none" stroke-width="2" opacity="0.3"/>
+
+<path class="coding-line" d="M20 80 Q 400 60, 780 80" stroke="#601111" fill="none" stroke-width="2" opacity="0.3"/>
+
+<path class="coding-line" d="M20 120 Q 400 100, 780 120" stroke="#601111" fill="none" stroke-width="2" opacity="0.3"/>
+
+<path class="coding-line" d="M20 160 Q 400 140, 780 160" stroke="#601111" fill="none" stroke-width="2" opacity="0.3"/>
+
+
+
+<!-- Main Text -->
+<g class="floating">
+
+<text class="main-text glowing" x="50%" y="50%" text-anchor="middle" font-size="48" fill="#601111">
+
+&lt;Jared Aguilera/&gt;
+
+</text>
+
+</g>
+
+
+
+<!-- Decorative Symbols -->
+
+<g class="waving">
+
+<text x="100" y="100" font-family="Monaco" font-size="24" fill="#601111">{}</text>
+
+<text x="700" y="100" font-family="Monaco" font-size="24" fill="#601111">()</text>
+
+<text x="300" y="150" font-family="Monaco" font-size="24" fill="#601111">[]</text>
+
+<text x="500" y="150" font-family="Monaco" font-size="24" fill="#601111">&lt;/&gt;</text>
+
+</g>
+
+
+
+<!-- Animated Dots -->
+
+<circle class="floating glowing" cx="150" cy="50" r="4" fill="#601111"/>
+
+<circle class="floating glowing" cx="650" cy="50" r="4" fill="#601111"/>
+
+<circle class="floating glowing" cx="400" cy="150" r="4" fill="#601111"/>
+
+</svg>

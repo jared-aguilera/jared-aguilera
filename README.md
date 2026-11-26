@@ -1,64 +1,108 @@
-<h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"><b> Hi, I'm Jared Aguilera </b><img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmYxcDFibTNkbWZ3dWs2bTR4b3puM2xnajZ3a3VqcHZxcTVpMmkxYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/kMAsQuuEeQIwm4eSVJ/giphy.gif" width="35">
-</h1>
+<div align="center">
 
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&pause=1000&color=F70000&center=true&width=435&lines=Software+Engineering+Student;.+.+.+%F0%9F%8C%99+.+.+." alt="Typing SVG" /></a>
+  <!-- main banner -->
+  <img src="./assets/banner.svg" alt="Jared Aguilera Banner" width="100%" />
+
+  <!-- animated line divider -->
+  <img src="./assets/linea.svg" alt="Animated Line" width="100%" />
+
+  <br />
+
+  <!-- typing svg title -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&pause=1000&color=F70000&center=true&width=435&lines=Software+Engineering+Student;.+.+.+%F0%9F%8C%99+.+.+." alt="Typing SVG" />
+
+  <!-- short bio -->
+  <p>
+    Passionate about web development, backend systems, artificial intelligence, and automation.<br />
+    Building practical solutions that automate processes and solve real-world problems.
+  </p>
+
+  <!-- social links -->
+  <p>
+    <a href="https://www.linkedin.com/in/jared-a-aguilera" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+  </p>
+
+  <!-- status badges -->
+  <p>
+    <img src="https://img.shields.io/badge/Focus-Backend_%26_Automation-601111?style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/Status-Learning_%26_Building-000000?style=for-the-badge&logoColor=white" />
+  </p>
+
+</div>
+
+<br />
+
+<!-- section divider line -->
+<div align="center">
+  <img src="./assets/linea.svg" alt="Animated Line" width="100%" />
+</div>
+
+<br />
+
+<!-- about me section -->
+<div align="center">
+  <span style="font-size: 24px; font-weight: bold;">🌙 About Me</span>
+</div>
+
+<br />
+
+<p>
+  I'm a <b>Software Engineering Student</b> passionate about backend development, automation, and artificial intelligence. I enjoy building practical tools that automate workflows and solve real-world problems.
 </p>
 
-<img align="right" width=300px alt="Unicorn" src="./images/mutsumi.gif" />
+<ul>
+  <li>⚡ <b>Currently learning:</b> Advanced backend architecture and system design.</li>
+  <li>🚀 <b>Building:</b> Personal automation tools and full-stack web applications.</li>
+  <li>🎵 <b>Beyond coding:</b> I love listening to music, it keeps me focused and inspires my creative process.</li>
+</ul>
 
-<!-- ABOUT ME --> 
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExejdwNmtrZGtlc3d0a3ltY2Yyb2c4cDl0dmg5OXM1bWRlcWJudjY1MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5k9CAFz8huHmHITiIV/giphy.gif" width="30px">&nbsp;***About me***
- 
-I’m a Software Engineering student currently studying at university. I mainly work with Python, and I’ve also had experience with C, C#, C++, JavaScript, and PHP. I enjoy learning new technologies and building practical solutions that automate processes and solve real-world problems.
+<br />
 
-I am interested in web development, backend systems, artificial intelligence, and automation.
+<!-- section divider line -->
+<div align="center">
+  <img src="./assets/linea.svg" alt="Animated Line" width="100%" />
+</div>
 
-- ⚡ I’m constantly learning and exploring new tools, technologies, and concepts to improve my skills.
+<br />
 
-- 🚀 I enjoy building projects that challenge me and help me grow while creating meaningful solutions.
+<!-- tech stack section -->
+<div align="center">
 
-- Outside tech, 🎵 I love listening to music — it helps me relax and inspires me to create.
+  <span style="font-size: 24px; font-weight: bold;">🛠️ My Tech Stack</span>
 
-## My Skills Include
+  <h4>Languages</h4>
+  <p>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
+    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  </p>
 
-<h4> Languages </h4>
-<span> 
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
-  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
-  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white">
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
-  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white">
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">  
-</span>
+  <h4>Databases</h4>
+  <p>
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  </p>
 
-<!--<h4> Frameworks </h4>
-<span>
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
-</span>-->
+  <h4>Tools & Environment</h4>
+  <p>
+    <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white" />
+  </p>
 
-<h4> Databases </h4>
-<span>
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-</span>
+</div>
 
-<h4> IDE </h4>
-<span>
-<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+<br><br>
 
-
-<h4> Other Tools and Technologies </h4>
-<span>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white">
-</span>
-<hr>
-<p align="center">
-    <i>Tell me, Tell me</i> <br>
-    <i>Why is it so beautiful?</i> <br>
-    <i>🌙</i>
-   <br>
-<br>	
+<!-- footer -->
+<div align="center">
+  <img src="./assets/footer.svg" alt="Footer Banner" width="100%" />
+</div>
