@@ -43,7 +43,9 @@
 
 <!-- about me section -->
 <div align="center">
-  <span style="font-size: 24px; font-weight: bold;">🌙 About Me</span>
+
+<h1 style="border-bottom: none;"> 🌙 About Me </h1>
+
 </div>
 
 <br />
@@ -70,7 +72,7 @@
 <!-- tech stack section -->
 <div align="center">
 
-  <span style="font-size: 24px; font-weight: bold;">🛠️ My Tech Stack</span>
+<h1 style="border-bottom: none;">🛠️ My Tech Stack</h1>
 
   <h4>Languages</h4>
   <p>

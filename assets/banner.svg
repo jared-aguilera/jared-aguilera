@@ -20,9 +20,9 @@
 
 @keyframes glow {
 
-0%, 100% { filter: drop-shadow(0 0 3px #601111); }
+0%, 100% { filter: drop-shadow(0 0 3px #FF0000); }
 
-50% { filter: drop-shadow(0 0 8px #601111); }
+50% { filter: drop-shadow(0 0 8px #FF0000); }
 
 }
 
@@ -58,22 +58,22 @@ font-weight: bold;
 
 
 
-<!-- Decorative Background Elements -->
-
-<path class="coding-line" d="M20 40 Q 400 20, 780 40" stroke="#601111" fill="none" stroke-width="2" opacity="0.3"/>
-
-<path class="coding-line" d="M20 80 Q 400 60, 780 80" stroke="#601111" fill="none" stroke-width="2" opacity="0.3"/>
-
-<path class="coding-line" d="M20 120 Q 400 100, 780 120" stroke="#601111" fill="none" stroke-width="2" opacity="0.3"/>
-
-<path class="coding-line" d="M20 160 Q 400 140, 780 160" stroke="#601111" fill="none" stroke-width="2" opacity="0.3"/>
 
 
+<path class="coding-line" d="M20 40 Q 400 20, 780 40" stroke="#7A1212" fill="none" stroke-width="2" opacity="0.4" />
 
-<!-- Main Text -->
+<path class="coding-line" d="M20 80 Q 400 60, 780 80" stroke="#7A1212" fill="none" stroke-width="2" opacity="0.4" />
+
+<path class="coding-line" d="M20 120 Q 400 100, 780 120" stroke="#7A1212" fill="none" stroke-width="2" opacity="0.4" />
+
+<path class="coding-line" d="M20 160 Q 400 140, 780 160" stroke="#7A1212" fill="none" stroke-width="2" opacity="0.4" />
+
+
+
+
 <g class="floating">
 
-<text class="main-text glowing" x="50%" y="50%" text-anchor="middle" font-size="48" fill="#601111">
+<text class="main-text glowing" x="50%" y="50%" text-anchor="middle" font-size="48" fill="#FF0000">
 
 &lt;Jared Aguilera/&gt;
 
@@ -83,28 +83,28 @@ font-weight: bold;
 
 
 
-<!-- Decorative Symbols -->
+
 
 <g class="waving">
 
-<text x="100" y="100" font-family="Monaco" font-size="24" fill="#601111">{}</text>
+<text x="100" y="100" font-family="Monaco" font-size="24" fill="#FF0000">{}</text>
 
-<text x="700" y="100" font-family="Monaco" font-size="24" fill="#601111">()</text>
+<text x="700" y="100" font-family="Monaco" font-size="24" fill="#FF0000">()</text>
 
-<text x="300" y="150" font-family="Monaco" font-size="24" fill="#601111">[]</text>
+<text x="300" y="150" font-family="Monaco" font-size="24" fill="#FF0000">[]</text>
 
-<text x="500" y="150" font-family="Monaco" font-size="24" fill="#601111">&lt;/&gt;</text>
+<text x="500" y="150" font-family="Monaco" font-size="24" fill="#FF0000">&lt;/&gt;</text>
 
 </g>
 
 
 
-<!-- Animated Dots -->
 
-<circle class="floating glowing" cx="150" cy="50" r="4" fill="#601111"/>
 
-<circle class="floating glowing" cx="650" cy="50" r="4" fill="#601111"/>
+<circle class="floating glowing" cx="150" cy="50" r="4" fill="#FF0000" />
 
-<circle class="floating glowing" cx="400" cy="150" r="4" fill="#601111"/>
+<circle class="floating glowing" cx="650" cy="50" r="4" fill="#FF0000" />
+
+<circle class="floating glowing" cx="400" cy="150" r="4" fill="#FF0000" />
 
 </svg>
